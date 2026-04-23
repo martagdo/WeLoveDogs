@@ -15,6 +15,23 @@ Projeto de desenvolvimento frontend de um site institucional multipágina para o
 - CSS3
 - JavaScript
 
+#Deploy
+https://we-love-dogs-iota.vercel.app/
+
+## Preview
+
+### Desktop
+![Home](./imgs/home-desktop.png)
+
+### Formulário
+![Form](./imgs/form.png)
+
+### Mobile
+![Mobile](./imgs/mobile-home.png)
+
+### Menu Mobile
+![Menu](./imgs/mobile-menu.png)
+
 ## Layout
 O projeto foi desenvolvido com base no seguinte protótipo:  https://www.figma.com/file/83KrYRp9nXE4wyMIWgxu6O/WeLoveDogs---N%C3%BAcleo-Web?node-id=0-1&t=1kBFqE3wLdtUsyxT-0
 
