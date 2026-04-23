@@ -8,7 +8,6 @@ Projeto de desenvolvimento frontend de um site institucional multipágina para o
 ## Funcionalidades
 - Navegação entre páginas (Home, Quem Somos, Blog e Contato)
 - Menu hamburger funcional para dispositivos móveis
-- Layout responsivo
 - Redirecionamento correto entre páginas
 - Interface baseada em design do Figma
 
@@ -35,6 +34,7 @@ https://we-love-dogs-iota.vercel.app/
 ![Form](./imgs/form.png)
 
 ### Mobile
+*(layout não totalmente responsivo)*
 ![Mobile](./imgs/mobile-home.png)
 
 ### Menu Mobile
