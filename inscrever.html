@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeLoveDogs</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Open+Sans:wght@400;700&family=Overpass:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="cabecalho"> 
+        <a href ="index.html" class="logo-link">
+            <h1> we<span>love</span>dogs </h1>
+        </a>
+        <button class="menu-hamburguer">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div class="links">
+            <a href="index.html" class="logo-mobile">
+                we<span>love</span>dogs
+            </a>
+            <a href="quemSomos.html"> QUEM SOMOS</a>
+            <a href="blog.html"> BLOG</a>
+            <a href="inscrever.html" class="botao-cabecalho"> INSCREVER </a>
+            <img src="./imgs/Dog.svg" class="dog-icon" alt="ícone de patinha de cachorro">
+        </div>
+    </header>
+    <main class="inscrever"> 
+        <h1 class="inscricao">  Inscrição</h1>
+        <div class="conteudo-form">
+            <form> 
+                <div class="campo"> 
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" placeholder="Seu nome"><br><br>
+                </div>
+                <div class="campo"> 
+                    <label for="idade">Idade:</label>
+                    <input type="number" id="idade" name="idade" placeholder="18"><br><br>
+                </div>
+                <div class="campo">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="exemplo@exemplo"><br><br>
+                </div>
+                <div class="campo">
+                    <label for="ama cachorros?">Ama cachorros?</label>
+                    <textarea id="mensagem" rows="5" placeholder="Mensagem"></textarea>
+                </div>
+                <div class="botao-enviar">
+                    <button type="submit">Enviar</button>
+                </div>
+            </form>
+            <div class="img-inscricao">
+                <img src = "imgs/Figure5.svg" alt = " pessoa abraçando coração">
+            </div>
+        </div>
+    </main>
+    <script src="menu.js"></script>
+</body>
+</html>
