@@ -1,7 +1,9 @@
 # We Love Dogs 
 
 ## Descrição
-Projeto de desenvolvimento frontend de um site institucional multipágina para o grupo social fictício **WeLoveDogs**, com foco na prática de HTML, CSS e responsividade.
+Projeto de desenvolvimento frontend de um site institucional multipágina para o grupo social fictício **WeLoveDogs**, utilizando HTML, CSS e JavaScript.
+
+---
 
 ## Funcionalidades
 - Navegação entre páginas (Home, Quem Somos, Blog e Contato)
@@ -10,13 +12,19 @@ Projeto de desenvolvimento frontend de um site institucional multipágina para o
 - Redirecionamento correto entre páginas
 - Interface baseada em design do Figma
 
+---
+
 ## Tecnologias
 - HTML5
 - CSS3
 - JavaScript
 
-#Deploy
+---
+
+## Deploy
 https://we-love-dogs-iota.vercel.app/
+
+---
 
 ## Preview
 
@@ -32,11 +40,17 @@ https://we-love-dogs-iota.vercel.app/
 ### Menu Mobile
 ![Menu](./imgs/mobile-menu.png)
 
+---
+
 ## Layout
 O projeto foi desenvolvido com base no seguinte protótipo:  https://www.figma.com/file/83KrYRp9nXE4wyMIWgxu6O/WeLoveDogs---N%C3%BAcleo-Web?node-id=0-1&t=1kBFqE3wLdtUsyxT-0
 
-# Contexto
+---
+
+## Contexto
 Projeto desenvolvido durante o programa de trainee da InfoJr, com o objetivo de consolidar conhecimentos em HTML, CSS e construção de interfaces web.
+
+---
 
 ## Requisitos do desafio
 
